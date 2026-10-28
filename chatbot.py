@@ -1,6 +1,14 @@
 # Chatbot
 import random
 
+print("  _____ _           _   ____        _   ")
+print(" / ____| |         | | |  _ \\      | |  ")
+print("| |    | |__   __ _| |_| |_) | ___ | |_ ")
+print("| |    | '_ \\ / _` | __|  _ < / _ \\| __|")
+print("| |____| | | | (_| | |_| |_) | (_) | |_ ")
+print(" \\_____|_| |_|\\__,_|\\__|____/ \\___/ \\__|")
+print()
+
 PHRASES = [
     "That's exciting.",
     "Tell me more about it!",
